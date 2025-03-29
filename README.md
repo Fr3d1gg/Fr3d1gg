@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="200" src="https://github.com/Fr3d1gg/Fr3d1gg/blob/main/ChatGPT%20Image%2029%20mar%202025%2C%2015_41_23.png  />
+  <img height="200" src="https://raw.githubusercontent.com/Fr3d1gg/Fr3d1gg/main/ChatGPT%20Image%2029%20mar%202025%2C%2015_41_23.png" />
 </div>
+
 
 ###
 
